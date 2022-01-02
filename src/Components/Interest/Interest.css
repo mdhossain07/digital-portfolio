@@ -1,0 +1,12 @@
+.interest-title, .interest-info{
+    padding : 0 25px;
+    color: white;
+}
+
+.interest-info {
+    font-size: 12px;
+}
+
+.interest-title {
+    font-size: 18px ;
+}

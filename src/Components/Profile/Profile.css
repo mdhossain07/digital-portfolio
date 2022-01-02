@@ -1,0 +1,49 @@
+.main--title {
+    color : white;
+    font-size: 28px;
+    margin: 5px 0;
+}
+img{
+    height: 300px;
+    width: 100%;
+}
+
+.main--post {
+    font-size: 14px;
+    color: #F3BF99;
+    margin: 0;
+}
+
+.main--website {
+    font-size: 10.24px;
+    color: #F5F5F5;
+    margin: 0;
+}
+
+.info {
+    text-align: center;
+    line-height: 30px;
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 50px;
+}
+
+button{
+    border-radius: 6px;
+}
+
+.email, .link{
+    height: 34px;
+    width: 115px;
+    font-size: 14px;
+    color : gray/700;
+}
+
+.link {
+    background-color: #5093E2;
+    color : white;
+}

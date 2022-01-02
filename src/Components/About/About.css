@@ -1,0 +1,13 @@
+.about-title, .about-info{
+    padding : 0 25px;
+    color: white;
+}
+
+.about-title {
+    font-size: 18px;
+  
+}
+
+.about-info{
+    font-size: 12px;
+}
